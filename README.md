@@ -19,21 +19,20 @@ A beginner-friendly penetration testing toolkit with a GUI. Includes web vulnera
 ## 🚀 Installation
 
 1. Clone this repository:
-   -bash
-   git clone https://github.com/your-username/cyberxploit-pro.git
-   cd cyberxploit-pro
+   a)git clone https://github.com/your-username/cyberxploit-pro.git
+   b)cd cyberxploit-pro
 2. pip install requests,python-whois
 3. Install Nmap (required for scanning):
 Download Nmap
 Update the NMAP_PATH variable in main.py to point to your Nmap executable.
-
+---
 ## Requirements
 Python 3.8+
 requests
 python-whois
 tkinter (comes pre-installed with Python on most systems)
 Nmap (external tool)
-
+---
 ##▶️ Usage
 Run the application:
 python3 main.py
