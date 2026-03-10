@@ -47,7 +47,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/CyberXploit-Pro.git
+git clone https://github.com/abhi04anon/CyberXploit-Pro.git
 cd CyberXploit-Pro
 
 # 2. Install Python dependencies
@@ -60,7 +60,7 @@ python main.py
 ### Windows
 
 ```powershell
-git clone https://github.com/yourusername/CyberXploit-Pro.git
+git clone https://github.com/abhi04anon/CyberXploit-Pro.git
 cd CyberXploit-Pro
 pip install -r requirements.txt
 python main.py
@@ -77,7 +77,7 @@ sudo apt install python3-tk nmap dnsutils -y
 # Or on Arch/Manjaro
 sudo pacman -S python-tkinter nmap bind-tools
 
-git clone https://github.com/yourusername/CyberXploit-Pro.git
+git clone https://github.com/abhi04anon/CyberXploit-Pro.git
 cd CyberXploit-Pro
 pip install -r requirements.txt
 python main.py
