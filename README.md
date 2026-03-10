@@ -30,17 +30,8 @@
 
 ## 🖥️ Screenshots
 
-```
-⚡ CyberXploit Pro
-════════════════════════════════════════════════════════════
-  PORT SCAN → scanme.nmap.org
-════════════════════════════════════════════════════════════
-[+] nmap found at: /usr/bin/nmap
-[+] Running: nmap -Pn -sV --open -T4 scanme.nmap.org
-PORT     STATE  SERVICE  VERSION
-22/tcp   open   ssh      OpenSSH 6.6.1p1
-80/tcp   open   http     Apache httpd 2.4.7
-```
+<img width="1011" height="810" alt="image" src="https://github.com/user-attachments/assets/204972ba-d245-4297-a3cd-6bc59f71c6bd" />
+
 
 ---
 
