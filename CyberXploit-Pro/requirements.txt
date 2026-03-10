@@ -1,0 +1,8 @@
+# CyberXploit Pro - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# WHOIS lookups (optional but recommended)
+python-whois>=0.9.4
+
+# HTTP requests (used in web_recon, standard library urllib is the default)
+# requests>=2.31.0   # Uncomment if you prefer requests over urllib
